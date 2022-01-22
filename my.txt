@@ -11,15 +11,4 @@ myprod v:11
 myprod pusdh
 test1
 after cherry
-test2
-test3
-test4
-test2
-test10
-123
-345
-<<<<<<< HEAD
-678
 
-=======
->>>>>>> parent of a380c26... 2
