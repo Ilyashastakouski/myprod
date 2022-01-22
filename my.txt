@@ -10,15 +10,10 @@ myprod b:6
 myprod v:11
 myprod pusdh
 test1
-<<<<<<< HEAD
 after cherry
 test2
 test3
 test4
-<<<<<<< HEAD
-=======
 test2
->>>>>>> 4dc9d6f... test6 commit master
-=======
 test10
->>>>>>> 44b83e0... 3 cherry developer2
+
