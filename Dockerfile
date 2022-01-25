@@ -1,3 +1,3 @@
 FROM nginx
 
-RUN echo "привет мой3" > /usr/share/nginx/html/index.html
+RUN echo "привет мой4" > /usr/share/nginx/html/index.html
