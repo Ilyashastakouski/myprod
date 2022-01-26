@@ -1,6 +1,6 @@
 {
   "Image": {
-    "Name": "image-name"
+    "Name": "nginx"
   },
   "Ports": [
     {
