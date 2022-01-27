@@ -1,6 +1,6 @@
 [
   {
     "name": "sample-app",
-    "imageUri": "11111EXAMPLE.dkr.ecr.us-west-2.amazonaws.com/ecs-repo:latest"
+    "imageUri": "571428875750.dkr.ecr.us-east-2.amazonaws.com/app1:v2"
   }
 ]
